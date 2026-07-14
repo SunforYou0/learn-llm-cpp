@@ -1,0 +1,46 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "D:/ProgramFiles/CLion/bin/cmake/win/x64/bin/cmake.exe",
+			"cpack" : "D:/ProgramFiles/CLion/bin/cmake/win/x64/bin/cpack.exe",
+			"ctest" : "D:/ProgramFiles/CLion/bin/cmake/win/x64/bin/ctest.exe",
+			"root" : "D:/ProgramFiles/CLion/bin/cmake/win/x64/share/cmake-4.2"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 4,
+			"minor" : 2,
+			"patch" : 2,
+			"string" : "4.2.2",
+			"suffix" : ""
+		}
+	},
+	"objects" : [],
+	"reply" : 
+	{
+		"cache-v2" : 
+		{
+			"error" : "no buildsystem generated"
+		},
+		"cmakeFiles-v1" : 
+		{
+			"error" : "no buildsystem generated"
+		},
+		"codemodel-v2" : 
+		{
+			"error" : "no buildsystem generated"
+		},
+		"toolchains-v1" : 
+		{
+			"error" : "no buildsystem generated"
+		}
+	}
+}

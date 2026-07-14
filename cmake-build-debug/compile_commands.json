@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Sun/CLionProjects/learncpp/cmake-build-debug",
+  "command": "D:\\ProgramFiles\\CLion\\bin\\mingw\\bin\\g++.exe -g -fdiagnostics-color=always -o CMakeFiles\\learncpp.dir\\main.cpp.obj -c C:\\Users\\Sun\\CLionProjects\\learncpp\\main.cpp",
+  "file": "C:/Users/Sun/CLionProjects/learncpp/main.cpp",
+  "output": "C:/Users/Sun/CLionProjects/learncpp/cmake-build-debug/CMakeFiles/learncpp.dir/main.cpp.obj"
+}
+]
